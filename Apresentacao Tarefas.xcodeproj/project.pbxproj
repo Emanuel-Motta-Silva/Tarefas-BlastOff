@@ -8,6 +8,8 @@
 
 /* Begin PBXBuildFile section */
 		A185464D277CBA2A00D078A1 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = A185464C277CBA2A00D078A1 /* main.swift */; };
+		A1854654277CBA5000D078A1 /* Tarefa 01 - Estrutura Sequencial.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1854653277CBA5000D078A1 /* Tarefa 01 - Estrutura Sequencial.swift */; };
+		A1854657277CBAE000D078A1 /* Tarefa 02 Estrutura Sequencial .swift in Sources */ = {isa = PBXBuildFile; fileRef = A1854656277CBAE000D078A1 /* Tarefa 02 Estrutura Sequencial .swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +27,8 @@
 /* Begin PBXFileReference section */
 		A1854649277CBA2A00D078A1 /* Apresentacao Tarefas */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Apresentacao Tarefas"; sourceTree = BUILT_PRODUCTS_DIR; };
 		A185464C277CBA2A00D078A1 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		A1854653277CBA5000D078A1 /* Tarefa 01 - Estrutura Sequencial.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Tarefa 01 - Estrutura Sequencial.swift"; sourceTree = "<group>"; };
+		A1854656277CBAE000D078A1 /* Tarefa 02 Estrutura Sequencial .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Tarefa 02 Estrutura Sequencial .swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,9 +61,19 @@
 		A185464B277CBA2A00D078A1 /* Apresentacao Tarefas */ = {
 			isa = PBXGroup;
 			children = (
+				A1854655277CBABC00D078A1 /* Estrutura Sequencial */,
 				A185464C277CBA2A00D078A1 /* main.swift */,
 			);
 			path = "Apresentacao Tarefas";
+			sourceTree = "<group>";
+		};
+		A1854655277CBABC00D078A1 /* Estrutura Sequencial */ = {
+			isa = PBXGroup;
+			children = (
+				A1854653277CBA5000D078A1 /* Tarefa 01 - Estrutura Sequencial.swift */,
+				A1854656277CBAE000D078A1 /* Tarefa 02 Estrutura Sequencial .swift */,
+			);
+			path = "Estrutura Sequencial";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -121,6 +135,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				A185464D277CBA2A00D078A1 /* main.swift in Sources */,
+				A1854654277CBA5000D078A1 /* Tarefa 01 - Estrutura Sequencial.swift in Sources */,
+				A1854657277CBAE000D078A1 /* Tarefa 02 Estrutura Sequencial .swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

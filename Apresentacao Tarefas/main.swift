@@ -7,5 +7,7 @@
 
 import Foundation
 
-print("Hello, World!")
+//TAREFAS ESTRUTURAS SEQUENCIAIS
+//idealPeso()
+//pesoPeixe()
 
